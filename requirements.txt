@@ -1,2 +1,4 @@
 # Dani i-lists tanan external Python dependencies required to run surveytsek.
 # Ayaw pag-add og unnecessary dependencies.
+
+pandas
